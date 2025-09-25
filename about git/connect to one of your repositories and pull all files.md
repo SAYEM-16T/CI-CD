@@ -70,3 +70,6 @@ git pull origin main
 ---
 
 Do you want me to explain this for **GitHub** specifically, or are you using **GitLab / Bitbucket**?
+
+
+![alt text](<Screenshot from 2025-09-25 14-50-29.png>)
